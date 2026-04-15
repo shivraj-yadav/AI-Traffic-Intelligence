@@ -1,0 +1,15 @@
+{
+  "name": "traffic-engine",
+  "version": "1.0.0",
+  "description": "AI Traffic Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.14.0",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
+  }
+}

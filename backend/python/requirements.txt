@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+opencv-python
+ultralytics
+requests
+inference-sdk
